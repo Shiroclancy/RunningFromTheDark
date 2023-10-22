@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RunFromTheDark",
+			"Path": "..\\Source\\RunFromTheDark.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RunFromTheDarkEditor",
+			"Path": "..\\Source\\RunFromTheDarkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RunFromTheDark.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\RunFromTheDark\Intermediate\Build\Win64\x64\RunFromTheDarkEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\UnrealProjects\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\RunFromTheDark.cpp.obj"
+"D:\UnrealProjects\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\Default.rc2.res"
+/OUT:"D:\UnrealProjects\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\UnrealEditor-RunFromTheDark.lib"

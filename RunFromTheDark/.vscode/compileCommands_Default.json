@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\UnrealProjects\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProjects\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealProjects\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	}
+]
