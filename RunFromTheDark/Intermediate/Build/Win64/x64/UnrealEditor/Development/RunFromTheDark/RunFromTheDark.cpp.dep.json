@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unrealprojects\\runfromthedark\\source\\runfromthedark\\runfromthedark.cpp",
+        "Source": "d:\\github project\\runningfromthedark\\runfromthedark\\source\\runfromthedark\\runfromthedark.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unrealprojects\\runfromthedark\\intermediate\\build\\win64\\x64\\runfromthedarkeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "d:\\github project\\runningfromthedark\\runfromthedark\\intermediate\\build\\win64\\x64\\runfromthedarkeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "d:\\unrealprojects\\runfromthedark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runfromthedark\\definitions.runfromthedark.h",
-            "d:\\unrealprojects\\runfromthedark\\source\\runfromthedark\\runfromthedark.h"
+            "d:\\github project\\runningfromthedark\\runfromthedark\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runfromthedark\\definitions.runfromthedark.h",
+            "d:\\github project\\runningfromthedark\\runfromthedark\\source\\runfromthedark\\runfromthedark.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
