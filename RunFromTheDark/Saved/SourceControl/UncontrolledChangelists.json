@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub Project/RunningFromTheDark/RunFromTheDark/Content/Character/PB_PlayCharacter.uasset",
+				"D:/GitHub Project/RunningFromTheDark/RunFromTheDark/Content/Character/PB_MyPawn.uasset",
+				"D:/GitHub Project/RunningFromTheDark/RunFromTheDark/Content/Character/BluePrint/PB_MyPawn.uasset",
+				"D:/GitHub Project/RunningFromTheDark/RunFromTheDark/Content/Character/BluePrint/PB_PlayCharacter.uasset",
+				"D:/GitHub Project/RunningFromTheDark/RunFromTheDark/Content/Character/BP_GameMode.uasset",
+				"D:/GitHub Project/RunningFromTheDark/RunFromTheDark/Content/BP_GameMode.uasset",
 				"D:/UnrealProjects/RunFromTheDark/Content/Main.umap"
 			]
 		}

@@ -1,26 +1,58 @@
 [
 	{
-		"file": "D:\\UnrealProjects\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.Build.cs",
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\MyPawn.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\UnrealProjects\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
 		],
-		"directory": "D:\\UnrealEngine\\UE_5.3\\Engine\\Source"
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\UnrealProjects\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.cpp",
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\MyPawn.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\UnrealProjects\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
 		],
-		"directory": "D:\\UnrealEngine\\UE_5.3\\Engine\\Source"
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\UnrealProjects\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.h",
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\PlayCharacter.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@D:\\UnrealProjects\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
 		],
-		"directory": "D:\\UnrealEngine\\UE_5.3\\Engine\\Source"
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\PlayCharacter.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.Build.cs",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\Source\\RunFromTheDark\\RunFromTheDark.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\GitHub Project\\RunningFromTheDark\\RunFromTheDark\\.vscode\\compileCommands_Default\\RunFromTheDark.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
 	}
 ]
